@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class Test : MonoBehaviour
@@ -9,7 +10,7 @@ public class Test : MonoBehaviour
     void Start()
     {
 
- print("afafasffa");
+        
     }
 
     // Update is called once per frame
@@ -17,5 +18,13 @@ public class Test : MonoBehaviour
     {
         
     }
+
+    private void Hallo ()
+    {
+
+        return;
+    }
+
+
 
 }
